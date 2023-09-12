@@ -1,0 +1,107 @@
+---
+object: card
+id: 155c4911-66ea-406c-9459-3851be4c875a
+oracle_id: cf58682f-c305-4803-b54b-37f0841788e9
+multiverse_ids: []
+tcgplayer_id: 182190
+cardmarket_id: 15693
+name: White Mana Battery
+printed_name: Accumulateur de mana blanc
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/155c4911-66ea-406c-9459-3851be4c875a
+scryfall_uri: https://scryfall.com/card/ren/168/fr/accumulateur-de-mana-blanc?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/5/155c4911-66ea-406c-9459-3851be4c875a.jpg?1562899070
+  normal: https://cards.scryfall.io/normal/front/1/5/155c4911-66ea-406c-9459-3851be4c875a.jpg?1562899070
+  large: https://cards.scryfall.io/large/front/1/5/155c4911-66ea-406c-9459-3851be4c875a.jpg?1562899070
+  png: https://cards.scryfall.io/png/front/1/5/155c4911-66ea-406c-9459-3851be4c875a.png?1562899070
+  art_crop: https://cards.scryfall.io/art_crop/front/1/5/155c4911-66ea-406c-9459-3851be4c875a.jpg?1562899070
+  border_crop: https://cards.scryfall.io/border_crop/front/1/5/155c4911-66ea-406c-9459-3851be4c875a.jpg?1562899070
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: |-
+  {2}, {T}: Put a charge counter on White Mana Battery.
+  {T}, Remove any number of charge counters from White Mana Battery: Add {W}, then add an additional {W} for each charge counter removed this way.
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/155c4911-66ea-406c-9459-3851be4c875a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf58682f-c305-4803-b54b-37f0841788e9&unique=prints
+collector_number: '168'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony S. Waters
+artist_ids:
+- f009de11-3c8d-4663-b996-ca0c3e997fad
+illustration_id: 78bc1b5c-f0fa-4f79-ba34-f74ea819eb60
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21281
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=White+Mana+Battery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=White+Mana+Battery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=White+Mana+Battery
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182190?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=White+Mana+Battery&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=White+Mana+Battery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

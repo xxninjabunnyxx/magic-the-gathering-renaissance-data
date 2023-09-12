@@ -1,0 +1,107 @@
+---
+object: card
+id: 48f9e736-4d24-4dfe-8931-a511e2cb73f3
+oracle_id: 79e91e8a-cee7-411b-b0a3-d3383c0d4a43
+multiverse_ids: []
+tcgplayer_id: 182069
+cardmarket_id: 15594
+name: Blue Mana Battery
+printed_name: Accumulateur de mana bleu
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/48f9e736-4d24-4dfe-8931-a511e2cb73f3
+scryfall_uri: https://scryfall.com/card/ren/112/fr/accumulateur-de-mana-bleu?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/8/48f9e736-4d24-4dfe-8931-a511e2cb73f3.jpg?1562908331
+  normal: https://cards.scryfall.io/normal/front/4/8/48f9e736-4d24-4dfe-8931-a511e2cb73f3.jpg?1562908331
+  large: https://cards.scryfall.io/large/front/4/8/48f9e736-4d24-4dfe-8931-a511e2cb73f3.jpg?1562908331
+  png: https://cards.scryfall.io/png/front/4/8/48f9e736-4d24-4dfe-8931-a511e2cb73f3.png?1562908331
+  art_crop: https://cards.scryfall.io/art_crop/front/4/8/48f9e736-4d24-4dfe-8931-a511e2cb73f3.jpg?1562908331
+  border_crop: https://cards.scryfall.io/border_crop/front/4/8/48f9e736-4d24-4dfe-8931-a511e2cb73f3.jpg?1562908331
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: |-
+  {2}, {T}: Put a charge counter on Blue Mana Battery.
+  {T}, Remove any number of charge counters from Blue Mana Battery: Add {U}, then add an additional {U} for each charge counter removed this way.
+colors: []
+color_identity:
+- U
+keywords: []
+produced_mana:
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/48f9e736-4d24-4dfe-8931-a511e2cb73f3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A79e91e8a-cee7-411b-b0a3-d3383c0d4a43&unique=prints
+collector_number: '112'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: 993a7596-3d19-46bd-9e5b-2538c745e0ef
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18927
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blue+Mana+Battery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blue+Mana+Battery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blue+Mana+Battery
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182069?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blue+Mana+Battery&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blue+Mana+Battery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

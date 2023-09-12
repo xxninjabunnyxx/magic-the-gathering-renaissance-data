@@ -1,0 +1,16 @@
+---
+object: set
+id: bec33d25-cf6f-460f-918d-29b3009686bb
+code: ren
+tcgplayer_id: 2379
+name: Renaissance
+uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+scryfall_uri: https://scryfall.com/sets/ren
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aren&unique=prints
+released_at: '1995-08-01'
+set_type: masters
+card_count: 122
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ren.svg?1694404800

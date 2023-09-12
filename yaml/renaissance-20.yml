@@ -1,0 +1,108 @@
+---
+object: card
+id: d06e6cd0-6615-46dd-80c5-01023cae1d7a
+oracle_id: c77ff526-c0a8-45c7-9730-2e306a0d01b8
+multiverse_ids: []
+tcgplayer_id: 182165
+cardmarket_id: 15670
+name: Spirit Link
+printed_name: Liaison psychique
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/d06e6cd0-6615-46dd-80c5-01023cae1d7a
+scryfall_uri: https://scryfall.com/card/ren/20/fr/liaison-psychique?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/0/d06e6cd0-6615-46dd-80c5-01023cae1d7a.jpg?1562933989
+  normal: https://cards.scryfall.io/normal/front/d/0/d06e6cd0-6615-46dd-80c5-01023cae1d7a.jpg?1562933989
+  large: https://cards.scryfall.io/large/front/d/0/d06e6cd0-6615-46dd-80c5-01023cae1d7a.jpg?1562933989
+  png: https://cards.scryfall.io/png/front/d/0/d06e6cd0-6615-46dd-80c5-01023cae1d7a.png?1562933989
+  art_crop: https://cards.scryfall.io/art_crop/front/d/0/d06e6cd0-6615-46dd-80c5-01023cae1d7a.jpg?1562933989
+  border_crop: https://cards.scryfall.io/border_crop/front/d/0/d06e6cd0-6615-46dd-80c5-01023cae1d7a.jpg?1562933989
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+  Whenever enchanted creature deals damage, you gain that much life.
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d06e6cd0-6615-46dd-80c5-01023cae1d7a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac77ff526-c0a8-45c7-9730-2e306a0d01b8&unique=prints
+collector_number: '20'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kaja Foglio
+artist_ids:
+- e8b85539-756a-4eac-ac66-a2258d7cf547
+illustration_id: 162d59b0-0683-4b5f-adff-ab7ba7bc2142
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5346
+penny_rank: 2284
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spirit+Link&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spirit+Link&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spirit+Link
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182165?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spirit+Link&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spirit+Link&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

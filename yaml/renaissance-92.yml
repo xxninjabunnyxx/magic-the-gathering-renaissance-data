@@ -1,0 +1,107 @@
+---
+object: card
+id: d2ef6728-afe4-42c4-9ec9-ca2914d46051
+oracle_id: a2f5a5fd-14dc-48e8-bdb0-984a83288023
+multiverse_ids: []
+tcgplayer_id: 182138
+cardmarket_id: 15643
+name: Mana Clash
+printed_name: Choc de mana
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/d2ef6728-afe4-42c4-9ec9-ca2914d46051
+scryfall_uri: https://scryfall.com/card/ren/92/fr/choc-de-mana?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/2/d2ef6728-afe4-42c4-9ec9-ca2914d46051.jpg?1562934403
+  normal: https://cards.scryfall.io/normal/front/d/2/d2ef6728-afe4-42c4-9ec9-ca2914d46051.jpg?1562934403
+  large: https://cards.scryfall.io/large/front/d/2/d2ef6728-afe4-42c4-9ec9-ca2914d46051.jpg?1562934403
+  png: https://cards.scryfall.io/png/front/d/2/d2ef6728-afe4-42c4-9ec9-ca2914d46051.png?1562934403
+  art_crop: https://cards.scryfall.io/art_crop/front/d/2/d2ef6728-afe4-42c4-9ec9-ca2914d46051.jpg?1562934403
+  border_crop: https://cards.scryfall.io/border_crop/front/d/2/d2ef6728-afe4-42c4-9ec9-ca2914d46051.jpg?1562934403
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: You and target opponent each flip a coin. Mana Clash deals 1 damage to
+  each player whose coin comes up tails. Repeat this process until both players' coins
+  come up heads on the same flip.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d2ef6728-afe4-42c4-9ec9-ca2914d46051/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa2f5a5fd-14dc-48e8-bdb0-984a83288023&unique=prints
+collector_number: '92'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 93d600b0-7521-4c1f-a06a-a288bd1d4daa
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7760
+penny_rank: 6615
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.27'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mana+Clash&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mana+Clash&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mana+Clash
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182138?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mana+Clash&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mana+Clash&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

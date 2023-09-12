@@ -1,0 +1,107 @@
+---
+object: card
+id: 81917a2b-9bf6-4aa6-947d-36b0f45d6fe3
+oracle_id: 92eed395-62ca-4293-882b-8565c40daab5
+multiverse_ids: []
+tcgplayer_id: 182169
+cardmarket_id: 15674
+name: Sylvan Library
+printed_name: Bibliothèque sylvestre
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3
+scryfall_uri: https://scryfall.com/card/ren/158/fr/biblioth%C3%A8que-sylvestre?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/1/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3.jpg?1562919020
+  normal: https://cards.scryfall.io/normal/front/8/1/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3.jpg?1562919020
+  large: https://cards.scryfall.io/large/front/8/1/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3.jpg?1562919020
+  png: https://cards.scryfall.io/png/front/8/1/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3.png?1562919020
+  art_crop: https://cards.scryfall.io/art_crop/front/8/1/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3.jpg?1562919020
+  border_crop: https://cards.scryfall.io/border_crop/front/8/1/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3.jpg?1562919020
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: At the beginning of your draw step, you may draw two additional cards.
+  If you do, choose two cards in your hand drawn this turn. For each of those cards,
+  pay 4 life or put the card on top of your library.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92eed395-62ca-4293-882b-8565c40daab5&unique=prints
+collector_number: '158'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Harold McNeill
+artist_ids:
+- 8aadc8a8-df50-45b3-bd88-449e709df482
+illustration_id: 05fc2d1a-8646-4bae-8af3-6ebde4c64967
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 114
+penny_rank: 86
+prices:
+  usd: '40.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '26.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sylvan+Library&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sylvan+Library&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sylvan+Library
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182169?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sylvan+Library&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sylvan+Library&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,107 @@
+---
+object: card
+id: 85136d10-f5ed-44a5-9275-82fa7cb51337
+oracle_id: '00358a89-2058-448b-a2fd-389f639ba2da'
+multiverse_ids: []
+tcgplayer_id: 182144
+cardmarket_id: 15649
+name: Murk Dwellers
+printed_name: Habitants des ténèbres
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/85136d10-f5ed-44a5-9275-82fa7cb51337
+scryfall_uri: https://scryfall.com/card/ren/62/fr/habitants-des-t%C3%A9n%C3%A8bres?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/5/85136d10-f5ed-44a5-9275-82fa7cb51337.jpg?1562919662
+  normal: https://cards.scryfall.io/normal/front/8/5/85136d10-f5ed-44a5-9275-82fa7cb51337.jpg?1562919662
+  large: https://cards.scryfall.io/large/front/8/5/85136d10-f5ed-44a5-9275-82fa7cb51337.jpg?1562919662
+  png: https://cards.scryfall.io/png/front/8/5/85136d10-f5ed-44a5-9275-82fa7cb51337.png?1562919662
+  art_crop: https://cards.scryfall.io/art_crop/front/8/5/85136d10-f5ed-44a5-9275-82fa7cb51337.jpg?1562919662
+  border_crop: https://cards.scryfall.io/border_crop/front/8/5/85136d10-f5ed-44a5-9275-82fa7cb51337.jpg?1562919662
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Zombie
+oracle_text: Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until
+  end of combat.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/85136d10-f5ed-44a5-9275-82fa7cb51337/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A00358a89-2058-448b-a2fd-389f639ba2da&unique=prints
+collector_number: '62'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Drew Tucker
+artist_ids:
+- 22eef389-7b21-4dda-95dc-4c9a0f1bf4dd
+illustration_id: 1ac49fa3-1963-4af3-852a-b98fe3a1633d
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 25489
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Murk+Dwellers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Murk+Dwellers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Murk+Dwellers
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182144?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Murk+Dwellers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Murk+Dwellers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,109 @@
+---
+object: card
+id: acc95fc9-073b-4bac-9826-e6e3466f1b76
+oracle_id: 35d4e500-28c8-44c9-990f-3aa25ed5dd14
+multiverse_ids: []
+tcgplayer_id: 182083
+cardmarket_id: 15608
+name: Crimson Manticore
+printed_name: Manticore pourpre
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/acc95fc9-073b-4bac-9826-e6e3466f1b76
+scryfall_uri: https://scryfall.com/card/ren/80/fr/manticore-pourpre?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/c/acc95fc9-073b-4bac-9826-e6e3466f1b76.jpg?1562927223
+  normal: https://cards.scryfall.io/normal/front/a/c/acc95fc9-073b-4bac-9826-e6e3466f1b76.jpg?1562927223
+  large: https://cards.scryfall.io/large/front/a/c/acc95fc9-073b-4bac-9826-e6e3466f1b76.jpg?1562927223
+  png: https://cards.scryfall.io/png/front/a/c/acc95fc9-073b-4bac-9826-e6e3466f1b76.png?1562927223
+  art_crop: https://cards.scryfall.io/art_crop/front/a/c/acc95fc9-073b-4bac-9826-e6e3466f1b76.jpg?1562927223
+  border_crop: https://cards.scryfall.io/border_crop/front/a/c/acc95fc9-073b-4bac-9826-e6e3466f1b76.jpg?1562927223
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Creature — Manticore
+oracle_text: |-
+  Flying
+  {R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/acc95fc9-073b-4bac-9826-e6e3466f1b76/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A35d4e500-28c8-44c9-990f-3aa25ed5dd14&unique=prints
+collector_number: '80'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: 80848268-2834-408a-a851-9357928bd391
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 25010
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.28'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Crimson+Manticore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Crimson+Manticore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Crimson+Manticore
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182083?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crimson+Manticore&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Crimson+Manticore&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

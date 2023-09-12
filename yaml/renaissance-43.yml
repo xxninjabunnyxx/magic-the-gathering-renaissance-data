@@ -1,0 +1,109 @@
+---
+object: card
+id: 74ba3f4b-7242-4f2e-b932-53d7ca3a1521
+oracle_id: d89075a3-4413-4796-a055-eef51fddb7f3
+multiverse_ids: []
+tcgplayer_id: 182175
+cardmarket_id: 15680
+name: Time Elemental
+printed_name: Élémental du temps
+lang: fr
+released_at: '1995-08-01'
+uri: https://api.scryfall.com/cards/74ba3f4b-7242-4f2e-b932-53d7ca3a1521
+scryfall_uri: https://scryfall.com/card/ren/43/fr/%C3%A9l%C3%A9mental-du-temps?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/4/74ba3f4b-7242-4f2e-b932-53d7ca3a1521.jpg?1562916641
+  normal: https://cards.scryfall.io/normal/front/7/4/74ba3f4b-7242-4f2e-b932-53d7ca3a1521.jpg?1562916641
+  large: https://cards.scryfall.io/large/front/7/4/74ba3f4b-7242-4f2e-b932-53d7ca3a1521.jpg?1562916641
+  png: https://cards.scryfall.io/png/front/7/4/74ba3f4b-7242-4f2e-b932-53d7ca3a1521.png?1562916641
+  art_crop: https://cards.scryfall.io/art_crop/front/7/4/74ba3f4b-7242-4f2e-b932-53d7ca3a1521.jpg?1562916641
+  border_crop: https://cards.scryfall.io/border_crop/front/7/4/74ba3f4b-7242-4f2e-b932-53d7ca3a1521.jpg?1562916641
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Elemental
+oracle_text: |-
+  When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you.
+  {2}{U}{U}, {T}: Return target permanent that isn't enchanted to its owner's hand.
+power: '0'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bec33d25-cf6f-460f-918d-29b3009686bb
+set: ren
+set_name: Renaissance
+set_type: masters
+set_uri: https://api.scryfall.com/sets/bec33d25-cf6f-460f-918d-29b3009686bb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ren?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/74ba3f4b-7242-4f2e-b932-53d7ca3a1521/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad89075a3-4413-4796-a055-eef51fddb7f3&unique=prints
+collector_number: '43'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: 5cdece2f-e1bb-481f-aa87-74589164a39b
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20301
+penny_rank: 14154
+prices:
+  usd: '24.95'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Time+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Time+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Time+Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/182175?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Time+Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Time+Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
